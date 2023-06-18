@@ -2,14 +2,6 @@
   Author Custom JavaScript
 ====================================================================== */
 // Loop through Array of Objects
-//1
-var objPeople = [
-	{ // Object @ 0 index
-		username: "masudur8055",
-		password: "01234"
-	}
-]
-
 function getInfo() {
 	var username = document.getElementById('username').value
 	var password = document.getElementById('password').value
